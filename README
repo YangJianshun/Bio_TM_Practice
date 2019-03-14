@@ -1,0 +1,5 @@
+需要先安装两个python模块，运行bin/install_module.sh进行安装
+进入example目录,运行例子test.sh即可
+主程序bin/main.sh 接受一个参数，即为需要分析的中文文本
+
+example中的中文文本仅供学习交流，不得用于任何商业目的！
